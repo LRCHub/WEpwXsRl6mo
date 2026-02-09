@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Pancake",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-09T10:05:56.792546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pancake",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/01_Pancake_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pancake",
+      "artist": "Swirlies",
+      "has_synced": true,
+      "path": "select/02_Pancake_Swirlies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Eat Yellow the Snow/St. Alphonzo's Pancake Breakfast (Live)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/03_Don't_Eat_Yellow_the_Snow_St._Alphonzo's_Pancake_Breakfast_(Live)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Eat the Yellow Snow \u0000 St. Alphonzo’s Pancake Breakfast (live)",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/04_Don’t_Eat_the_Yellow_Snow_\u0000_St._Alphonzo’s_Pancake_Breakfast_(live)_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "St Alphonso's Pancake Breakfast - Live",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/05_St_Alphonso's_Pancake_Breakfast_-_Live_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Story of Don't Eat Yellow Snow/St. Alphonzo's Pancake Breakfast",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/06_The_Story_of_Don't_Eat_Yellow_Snow_St._Alphonzo's_Pancake_Breakfast_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Story of Don’t Eat Yellow Snow \u0000 St. Alphonzo’s Pancake Breakfast",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/07_The_Story_of_Don’t_Eat_Yellow_Snow_\u0000_St._Alphonzo’s_Pancake_Breakfast_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "St. Alfonzo's Pancake Breakfast",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/08_St._Alfonzo's_Pancake_Breakfast_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "St. Alphonzo's Pancake Breakfa",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/09_St._Alphonzo's_Pancake_Breakfa_Frank_Zappa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pancake Land",
+      "artist": "Element Eighty",
+      "has_synced": true,
+      "path": "select/10_Pancake_Land_Element_Eighty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "St. Alfonzo’s Pancake Breakfast",
+      "artist": "Zappa, Frank",
+      "has_synced": true,
+      "path": "select/11_St._Alfonzo’s_Pancake_Breakfast_Zappa,_Frank.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cranberry & Pancake",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/12_Cranberry_&_Pancake_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pancake",
+      "artist": "Natanael Cano feat. Peso Pluma",
+      "has_synced": true,
+      "path": "select/13_Pancake_Natanael_Cano_feat._Peso_Pluma.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pancake",
+      "artist": "Natanael Cano",
+      "has_synced": true,
+      "path": "select/14_Pancake_Natanael_Cano.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pancake",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/15_Pancake_Young_Nudy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pancake",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_Pancake_Myuk.txt"
+    }
+  ]
+}
